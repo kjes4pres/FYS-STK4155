@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 .DS_Store
+
+list.ipynb
+overlap_results.txt
